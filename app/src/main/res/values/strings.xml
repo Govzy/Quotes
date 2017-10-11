@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="movie_button_name">Movie Quotes</string>
+    <string name="famous_button_name">Famous Quotes</string>
+</resources>
